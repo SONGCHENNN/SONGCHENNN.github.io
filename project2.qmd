@@ -1,0 +1,19 @@
+---
+
+title: "Project2"
+format:
+  html:
+    toc: true
+    navbar: true
+
+---
+
+## Project 2: Food donation bot
+
+This is a food donation bot linked to a machine that are embedded with sensors. When users trying to donate foods to others, they will have to follow the steps below: 
+
+- Step 1: Select a box
+- Step 2: Place the food in the box
+- Step 3: Close the box and update the info to the telegram bot ![Telegram bot](image/food_donation_bot.jpg)
+
+Subsequently, the information will be forwarded to a group chat which contains all the users who are interested to get the foods.![group chat](image/Group_chat.jpg)

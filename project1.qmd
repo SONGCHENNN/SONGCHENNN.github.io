@@ -1,0 +1,17 @@
+---
+
+title: "Project1"
+format:
+  html:
+    toc: true
+    navbar: true
+    
+
+---
+## Project 1: Mechanical Cradle
+
+
+This is a company collaboration project which aims to solve real-world industry problem. Our client was facing issue to stable objects during labeling process. Thus, we have designed a mechanical cradle to secure the products in place. 
+![The mechanical cradle](image/cradle.jpg)
+
+The link to the report: (https://docs.google.com/document/d/1xtBtEZU5X-lJKaENBpKYvGM2E7YdO2Tn/edit)

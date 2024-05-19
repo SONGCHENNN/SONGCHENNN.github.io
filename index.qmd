@@ -1,0 +1,37 @@
+---
+title: "Home"
+# author: "Dylan Yeo Song Chen"
+# date: "14 May 2024"
+format:
+  html:
+    css: style.css
+    toc: true
+    navbar: true
+---
+
+# Welcome
+
+Welcome to my personal website! Here gives a brief introduction about me!
+
+## About Me
+
+![About me](image/sc.jpg)
+<br>I am a student at the Singapore Institute of Technology (SIT) studying Applied Artificial Intelligence. I have a passion for data visualization and data analysis. I come from a mechanical engineering background and hope to combine the knowledge obtained from both sector to contribute to the society. 
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+- **Project 1**: This is my final year project in my poly. [*link*](project1.html) 
+- **Project 2**: This is a Food donation bot which linked to a machine. [*link*](project2.html)
+
+## Curriculum
+
+In order to enrich my Uni life, I have decided to join the [SIT Ambassador Club](https://www.singaporetech.edu.sg/sitizen-ambassadors/homepage) to contribute to the school! 
+
+
+Please click [here](ambassador.html) to read more!
+
+## Contact
+
+Feel free to reach out to me via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).

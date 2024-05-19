@@ -1,0 +1,9 @@
+#profile-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px; /* Adjust the size as needed */
+    height: 300px; /* Adjust the size as needed */
+    border-radius: 50%;
+    /*object-fit: cover;  Ensures the image covers the entire circle */
+}
